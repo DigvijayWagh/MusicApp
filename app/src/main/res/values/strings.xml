@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">ActivityLifecycleDemo</string>
+    <string name="hello_world_myactivity">Hello World, MyActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Submit</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">Not Registered</string>
+    <string name="login_title">Login</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="hrc_karaoke_nights">HRC Karaoke Nights</string>
+    <string name="with_artistivity">With Artistivity</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="registration">Register Now</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">Version</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="mail_id">abcd@xyz.com</string>
+    <string name="owner_name">Digvijay Wagh</string>
+    <string-array name="array_popular_songs">
+        <item>More than you know</item>
+        <item>Wild Thoughts</item>
+        <item>There’s Nothing Holding Me Back</item>
+        <item>Swish Swish</item>
+        <item>I like Me Better</item>
+        <item>The One</item>
+        <item>Chained To The Rhythm</item>
+        <item>Perro Fiel</item>
+        <item>Cold</item>
+        <item>HomeMade Dynamite</item>
+        <item>The Spectre</item>
+        <item>Stay</item>
+    </string-array>
+
+    <string-array name="array_previous_songs">
+        <item>I’m a Lady</item>
+        <item>I Don’t Wanna Live Forever</item>
+        <item>Alone</item>
+        <item>Black Beatles</item>
+        <item>Never Give Up</item>
+        <item>Starboy</item>
+        <item>Rockabye</item>
+        <item>Can’t Take My Eyes Off You</item>
+        <item>One More Light</item>
+        <item>Lonely Together</item>
+        <item>Levitate</item>
+        <item>A Different Way</item>
+    </string-array>
+
+</resources>

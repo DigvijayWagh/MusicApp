@@ -1,0 +1,26 @@
+<resources>
+    <color name="myPrimaryColor">#6078DA</color>
+    <color name="myPrimaryDarkColor">#4050B4</color>
+    <color name="myAccentColor">#000000</color>
+    <color name="myDrawerBackground">#F2F2F2</color>
+    <color name="myWindowBackground">#DEDEDE</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+    <color name="myNavigationColor">#000000</color>
+    <color name="selected_gray">#ffdbdbdb</color>
+    <color name="list_item_selected">#6078DA</color>
+
+    <color name="primary_login">#4050B4</color>
+    <color name="primary_dark_login">#E12929</color>
+    <color name="primary_darker_login">#CC1D1D</color>
+    <color name="accent_login">#3F51B5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_light">#303F9F</color>
+    <color name="colorPrimary">#6078DA</color>
+    <color name="colorPrimaryDark">#4050B4</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="gray_light">#F1F1F1</color>
+    <color name="dark_blue">#125D9D</color>
+</resources>
+
